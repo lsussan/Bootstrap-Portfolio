@@ -24,5 +24,9 @@ footer {
 }
 
 .img-responsive {
-  
+  margin-bottom: auto;
+}
+
+navbar-brand{
+  color: #fff;
 }
