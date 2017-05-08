@@ -16,6 +16,10 @@ label {
   margin: auto;
 }
 
+form {
+  padding: 25px;
+  margin-bottom: 10px;
+}
 .navbar-brand{
   font-size: 25px;
   background: #4aaaa5;
